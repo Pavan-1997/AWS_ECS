@@ -55,6 +55,6 @@ AWS ECS is a fully managed container orchestration service that allows you to ru
 4. Clone the repository into your system
 
   
-5. ### FOLLOW THE STEPS OF AWS_ECR (https://github.com/Pavan-1997/AWS_ECR) and build the Dockerfile present in the repo cloned and push it to ECR
+5. #### FOLLOW THE STEPS OF AWS_ECR (https://github.com/Pavan-1997/AWS_ECR) and build the Dockerfile present in the repo cloned and push it to ECR
 
    

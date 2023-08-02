@@ -68,4 +68,9 @@ AWS ECS is a fully managed container orchestration service that allows you to ru
 
 8.  In the Task definitions created -> Go to Deploy -> Click on Run task -> Select the Existing cluster created -> Click on Create
 
+![image](https://github.com/Pavan-1997/AWS_ECS/assets/32020205/0992b2dd-896e-4e54-aaca-9054e19dbc90)
+
+Below you can see the container running
+
+![image](https://github.com/Pavan-1997/AWS_ECS/assets/32020205/3f846e35-8b0c-488e-95c8-31a51626bf34)
 

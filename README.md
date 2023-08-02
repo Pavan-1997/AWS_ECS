@@ -40,3 +40,7 @@ AWS ECS is a fully managed container orchestration service that allows you to ru
 
 - **Limited Flexibility**: Although ECS can run non-Docker workloads with EC2 launch types, it is primarily optimized for Docker containers.
 
+---
+# Setting up ECS along with ECR
+
+

@@ -51,6 +51,7 @@ AWS ECS is a fully managed container orchestration service that allows you to ru
 	
 3. Click on Create cluster -> Select Infrastructure as AWS Fargate -> Click on Create
 
+5.
 
 4. Clone the repository into your system
 

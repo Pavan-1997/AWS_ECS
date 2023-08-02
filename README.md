@@ -57,4 +57,12 @@ AWS ECS is a fully managed container orchestration service that allows you to ru
   
 5. #### FOLLOW THE STEPS OF AWS_ECR (https://github.com/Pavan-1997/AWS_ECR) and build the Dockerfile present in the repo cloned and push it to ECR
 
-   
+
+6. Go back to ECS -> Click on the Cluster created -> On the left pane click on Task definitions -> Click on Create new task definiton -> Give name to the Task definition -> Reduce the memory to 2GB -> In container details give Name, Image URI - 317548628032.dkr.ecr.us-east-2.amazonaws.com/demo1997:latest (Give this from the image pushed) -> Container Port - 3000 -> Click on Create
+
+
+7. Go to IAM roles -> Select the role ecsTaskExecutionRole -> Add permission & Attach policies -> Add CloudWatchLogsFullAccess & CloudWatchFullAccess
+
+
+8.  In the Task definitions created -> Go to Deploy -> Click on Run task -> Select the Existing cluster created -> Click on Create
+

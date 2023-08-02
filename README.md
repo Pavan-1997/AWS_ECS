@@ -63,6 +63,9 @@ AWS ECS is a fully managed container orchestration service that allows you to ru
 
 7. Go to IAM roles -> Select the role ecsTaskExecutionRole -> Add permission & Attach policies -> Add CloudWatchLogsFullAccess & CloudWatchFullAccess
 
+![image](https://github.com/Pavan-1997/AWS_ECS/assets/32020205/fe9f1121-c523-40ae-b50f-3157125727ce)
+
 
 8.  In the Task definitions created -> Go to Deploy -> Click on Run task -> Select the Existing cluster created -> Click on Create
+
 

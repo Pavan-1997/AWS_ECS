@@ -12,11 +12,11 @@ AWS ECS is a fully managed container orchestration service that allows you to ru
 
 ### ECS Components:
 
-- Task Definitions: Task Definitions define how your containers should run, including the Docker image to use, CPU and memory requirements, networking, and more. It is like a blueprint for your containers.
+- Task Definitions: Defines how your containers should run, including the Docker image to use, CPU and memory requirements, networking, and more. It is like a blueprint for your containers.
   
-- Tasks: A task represents a single running instance of a task definition within a cluster. It could be a single container or multiple related containers that need to work together.
+- Tasks: Represents a single running instance of a task definition within a cluster. It could be a single container or multiple related containers that need to work together.
 
-- Services: Services help you maintain a specified number of running tasks simultaneously, ensuring high availability and load balancing for your applications.
+- Services: Helps you to maintain a specified number of running tasks simultaneously, ensuring high availability and load balancing for your applications.
 
 
 

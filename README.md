@@ -30,3 +30,13 @@ AWS ECS is a fully managed container orchestration service that allows you to ru
 
 - **Cost-Effective**: You pay only for the AWS resources you use, and you can take advantage of cost optimization features.
 
+
+
+### Disadvantages of ECS:
+
+- **AWS-Centric**: If you have a multi-cloud strategy or already invested heavily in another cloud provider, ECS's tight integration with AWS might be a limitation.
+
+- **Learning Curve for Advanced Features**: While basic usage is easy, utilizing more advanced features might require a deeper understanding.
+
+- **Limited Flexibility**: Although ECS can run non-Docker workloads with EC2 launch types, it is primarily optimized for Docker containers.
+

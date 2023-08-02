@@ -72,5 +72,5 @@ AWS ECS is a fully managed container orchestration service that allows you to ru
 
 Below you can see the container running
 
-![image](https://github.com/Pavan-1997/AWS_ECS/assets/32020205/3f846e35-8b0c-488e-95c8-31a51626bf34)
+![image](https://github.com/Pavan-1997/AWS_ECS/assets/32020205/307d9f99-bbcb-4d58-b2fb-3c0448ba6056)
 

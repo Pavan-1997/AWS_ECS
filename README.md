@@ -43,4 +43,18 @@ AWS ECS is a fully managed container orchestration service that allows you to ru
 ---
 # Setting up ECS along with ECR
 
+1. Login to AWS console using an IAM user
 
+
+2. Go ECS from AWS console -> Click on Get started 
+
+	
+3. Click on Create cluster -> Select Infrastructure as AWS Fargate -> Click on Create
+
+
+4. Clone the repository into your system
+
+  
+5. ### FOLLOW THE STEPS OF AWS_ECR and build the Dockerfile present in the repo cloned and push it to ECR
+
+   

@@ -73,7 +73,7 @@ git clone https://github.com/Pavan-1997/AWS_ECS.git
 
 ![image](https://github.com/Pavan-1997/AWS_ECS/assets/32020205/0992b2dd-896e-4e54-aaca-9054e19dbc90)
 
-Below you can see the container running
+Below you can see the Task(container) running
 
 ![image](https://github.com/Pavan-1997/AWS_ECS/assets/32020205/307d9f99-bbcb-4d58-b2fb-3c0448ba6056)
 
